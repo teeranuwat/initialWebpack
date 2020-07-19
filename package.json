@@ -9,7 +9,7 @@
     "start": "npm run build && webpack-dev-server --port=5500 --mode development"
   },
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   },
   "keywords": [],
   "author": "",
